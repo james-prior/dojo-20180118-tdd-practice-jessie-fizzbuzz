@@ -5,6 +5,7 @@ from fizzbuzz import Fizzbuzz
 number_to_expected_value = {
     1: (1,),
     2: (1, 2),
+    3: (1, 2, 'fizz'),
     # 30: (1, 2, 'fizz', 4, 'buzz', 'fizz', 7, 8, 'fizz', 'buzz'...'fizzbuzz'),
     # 2: 2,
     # 5: 'buzz',
